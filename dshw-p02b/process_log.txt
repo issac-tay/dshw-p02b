@@ -1,0 +1,15 @@
+CSMAR Data Processing Log
+========================
+Panel: 145825 rows, 5833 firms
+Years: 2000 - 2024
+Variables: 28
+
+Processing steps:
+1. Extracted 7 CSMAR zip files
+2. Read balance sheet (2000-2010 + 2011-2024)
+3. Read income statement (2000-2010 + 2011-2024)
+4. Read ownership and company info
+5. Standardized code (6-digit string) and year (integer)
+6. Constructed 13 financial variables
+7. Winsorized 10 ratio variables (1%/99%)
+8. Final panel output: 145825 rows
