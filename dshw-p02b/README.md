@@ -87,7 +87,7 @@
 
 ## GitHub 仓库
 
-https://github.com/[你的用户名]/dshw-p02b
+https://github.com/issac-tay/dshw-p02b.git
 
 ## 如何运行
 
